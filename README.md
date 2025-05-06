@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Teshager
 
-🎯 Passionate about solving real life problem by building data products powered by AI.
+🎯 A Full Stack Data Scientist, passionate about solving real-life problems by building AI-powered data products.
 
 - 🔭 I’m currently working on my thesis for Msc in Data Sceince
 - 🌱 Learning deep learning, MLOps, Cloud Computing and edge deployment.
