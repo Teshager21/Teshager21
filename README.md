@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my thesis for Msc in Data Sceince
 - 🌱 Learning deep learning, MLOps, Cloud Computing and edge deployment.
 - 💡 Interests: Computer vision, embedded AI, research-to-product pipelines.
-- 📫 Reach me at: [teshager8922@gmail.com]
+- 📫 Reach me at:   [Gmail](teshager8922@gmail.com) | [Linkedin](https://www.linkedin.com/in/teshager-admasu-531090191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc%2B%2FRSLMLQvOToVjuJ1TQuw%3D%3D) | [X](https://x.com/Teshage84907805)
 
 ## 🛠️ Languages & Tools
 
@@ -34,5 +34,5 @@
 ![Teshager21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teshager21&show_icons=true&theme=tokyonight)
 
 ## 🔗 Projects
-- [Smart Vision Monitring system]() – AI-powered vision monitoring system that can be deployed on edge devices
+- [Smart Vision Monitoring system]() – AI-powered vision monitoring system that can be deployed on edge devices
 ---
